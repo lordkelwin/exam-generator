@@ -1,0 +1,61 @@
+id,subject,question,option_a,option_b,option_c,option_d,correct_answer
+1,Math,A 5 lb monkey is attached to a 20 ft hanging rope that weighs 0.3 lb/ft. The monkey climbs the rope up to the top. How much work has it done?,160 ft-lb,170 ft-lb,165 ft-lb,180 ft-lb,a
+2,Math,"If x increases uniformly at the rate of 0.001 ft/sec, at what rate is the expression $(1 + x)^3$ increasing when x becomes 9 ft?",0.001 cfs,0.003 cfs,0.3 cfs,1.003 cfs,c
+3,Math,Two corridors respectively 2.5 m and 1.0 m wide intersect at right angles. Find the length in meters of the largest thin rod that will go horizontally around the corner.,3.97,4.79,5.32,5.23,b
+4,Math,"If the population of electronics engineers doubled in the last 29 years from 1970 to 1999, in what year will it triple assuming that the rate of increase is proportional to the number of electrical engineers?",2016,2045,2050,2060,a
+5,Math,"A storage battery discharges at a rate proportional to the charge. If the charge is reduced to 50% of its original value at the end of two (2) days, how long will it take to reduce the charge to 25% of its original charge?",3,4,8,7,b
+6,Math,What is the period of an oscillating body whose mass is 0.025 kg if the spring constant k = 0.44 N/m?,1.0 sec,2.5 sec,2.0 sec,1.5 sec,d
+7,Math,Evaluate $\ln(50 \angle 70 \degree)$.,4.73 + j1.48,4.30 + j1.11,3.56 + j1.34,3.91 + j1.22,d
+8,Math,The sum of the six roots of units are,1,-1,6,0,d
+9,Math,Determine the value of cos(0.942 + j0.429),0.643 + j0.358,0.358 - j0.643,0.643 - j0.358,0.358 + j0.643,c
+10,Math,"If the three sides of a trapezoid are each 20 cm long, how long must the fourth side if the area is at maximum.",10 cm,20 cm,40 cm,30 cm,b
+11,Math,The second derivative of the function f(x) is -f(x). What is the characteristic of this function?,hyperbolic,exponential,trigonometric,logarithmic,c
+12,Math,The velocity of a point moving in rectilinear motion is given by the equation $v = \exp(t) \sin(t)$. Find the acceleration when t = 0.,-1,1,1.5,-2,b
+13,Math,Evaluate the limit of $\sin (2x) \cot (4x)$ as x approaches zero.,0,infinity,01-Feb,01-Apr,c
+14,Math,A line 30 units long is inclined at 45 degrees with respect to horizontal plane and another line 20 units long is inclined at 15 degrees with the horizontal plane. Determine the distance between their respective tip.,14.16,16.15,15.64,11.65,b
+15,Math,"Four turns of rope around a horizontal post will hold a 1,000 lb weight with a pull of 10 lb, find the coefficient of friction between the rope and post.",0.18,0.22,0.16,0.3,a
+16,Math,A golf ball is driven horizontally from an elevated tee with a velocity of 80 ft/sec it strikes the fairway 2.5 sec later. How far has it traveled horizontally?,202 ft,198 ft,200 ft,205 ft,c
+17,Math,"Radium decomposes at a rate proportional to the amount present. If the half-life is 1600 years, that is, if any of any given amount is decomposed in 1600 years, find the percentage remaining at the end of 400 years.",82%,83.05%,84.09%,85%,c
+18,Math,"Solve the differential equation (y - 1)dx + (x + 1)dy = 0, if y = 2 when x = 0, determine y when x = 1.",1,2,1.5,2.5,c
+19,Math,Given the Fourier series in cosine form $F(t) = 5 \cos 20 \pi t + 2 \cos 40 \pi t + \cos 80 \pi t$. What is the frequency of the fundamental?,20,40,10,60,c
+20,Math,Find the x-intercept of a line tangent to $y=x^{\ln x}$ at x = e.,1.5,1.75,2,1.359,d
+21,Engineering Sciences,A material used for insulation.,Rubber,all of these,asbestos,Mica,b
+22,Engineering Sciences,Which of the ff may cause any number of the Board to be removed by President of the Philippines,Incompetence,Malpractice,All of these,Neglect of duty,c
+23,Engineering Sciences,Pick out the item that does not belong to the computer.,OCR,Mouse,MICR,Plotter,d
+24,Engineering Sciences,Which of the ff is not a reserved word in PASCAL?,WHILE,REPEAT,FILE,PLAY,d
+25,Engineering Sciences,Which of the ff is not correct?,Steady flows do not change with time at any point.,Bernoulli's equation only holds on the same streamline.,The Reynold's number is the ratio of the viscous force to the inertial force.,"For a fluid at rest, the pressure is equall in all lateral direction.",a
+26,Engineering Sciences,Which of the ff statements is FALSE?,Wavelengths of visible light is greater than wavelengths of microwaves.,Frequency of ultraviolet is greater than the frequency of infrared.,Frequency of radio waves is less than frequency of infrared waves.,Wavelengths of x-rays is greater than the wavelengths of gamma rays.,b
+27,Engineering Sciences,"Which of the ff operations is probably not an instruction in a low-level programming language (e.g., assembly language)?",AND,LDA,STOP,FETCH,c
+28,Engineering Sciences,Electrical equipment should NOT be mounted on a concrete wall by which of the ff?,Lead plug,Wooden plug,Plastic plug,Expansion bolt,d
+29,Engineering Sciences,Polymers that favor crystallization are least to have which of the ff?,An atactic configuration of side groups.,Small side groups,Only one repeating unit,Small chain lengths,a
+30,Engineering Sciences,"In a contract, when the contractor fails to live up to the contract agreement he is usually sued for damages. What is the ff may be not ground for the damages?",Delay,Fraud,Negligence,Amicable Settlement,d
+31,Engineering Sciences,"The ff wiring raceways may be installed underground, except",Electrical metallic tubing,Rigid metal conduit,Flexible metal conduit,Rigid non-metallic conduit,c
+32,Engineering Sciences,"Actual or compensatory damages may be recovered for the ff, except:",For injury to one's business standing or commercial credit,Defective construction of an approved design,Loss or impairment of earning capacity in cases of injury,For death caused by crime,b
+33,Engineering Sciences,Which of the ff is not an octal number?,19,105,77,15,a
+34,Engineering Sciences,"In the periodic table of elements, which of the ff is NOT a transition metals?",Copper,Sodium,Silver,Nickel,b
+35,Engineering Sciences,Which one of the ff elements is NOT radioactive?,Californium,Cobalt,Plutonium,Uranium,b
+36,Engineering Sciences,"In the periodic table of elements, which one of the ff is a light metal?",Gold,Mercury,Potassium,Silver,c
+37,Engineering Sciences,"RA 9136 has four sectors, which of the ff is not included?",Supply,Distribution,Generation,System Operation,d
+38,Engineering Sciences,Which is a scalar quantity?,Force,Energy,Displacement,Velocity,b
+39,Engineering Sciences,Which is not a standard device protection rating?,50,1500,225,110,b
+40,Engineering Sciences,Which one of the ff elements has the largest atomic radius?,Lithium,Sodium,Beryllium,Magnesium,b
+41,Professional Electrical Engineering,The zero and negative sequence component fault current does not appear on this type of fault,line to line fault,three phase symmetrical fault,single line to ground fault,double line to ground fault,b
+42,Professional Electrical Engineering,"A coil of $10 \Omega$ resistance of 0.1 H inductance is connected in parallel with a capacitor of unknown capacitance. If the total impedance of the combination is $100 \Omega$, determine the value of the capacitance.",$50 \mu F$,$100 \mu F$,$150 \mu F$,$200 \mu F$,a
+43,Professional Electrical Engineering,"A 3-phase breaker is rated at 2000 MVA, 33 kV, its making current will be:",35 kA,49 kA,70 kA,89 kA,d
+44,Professional Electrical Engineering,"A 5 MVA, 13.8 kV/480 V, 5% impedance transformer is tapped at 13.8 kV line where the thevenin's equivalent impedance is 1/2 ohm. Determine the fault current at the primary for a three phase fault at the secondary.",10 500 A,3 300 A,4 200 A,6 050 A,b
+45,Professional Electrical Engineering,The effective voltage across a circuit element is (20 + j10) V and the effective current through the element is 4 - j3 A. Calculate the true and reactive power taken by the element.,50 watts & 100 Vars lagging,50 watts & 100 Vars leading,110 watts & 20 Vars lagging,110 watts & 20 Vars leading,a
+46,Professional Electrical Engineering,"If the fault current is 2000 amps, the relay setting 50% and the C.T. ratio is 400/5, then the plug setting multiplier will be:",25 A,15 A,50 A,25 A,c
+47,Professional Electrical Engineering,Two impedances ZA = 4 + j6 ? and ZB = 6 + j12 ? are connected in parallel. The apparent power for the impedance B is 1490 VA. Determine the total apparent power.,4250 VA,3290 VA,2652 VA,8031 VA,a
+48,Professional Electrical Engineering,The p.u. impedance value of an alternator corresponding to base values 13.2 kV and 30 MVA is 0.2 p.u. value for the base values 13.8 kV and 50 MVA will be:,0.306 p.u.,0.33 p.u.,0.318 p.u.,0.328 p.u.,a
+49,Professional Electrical Engineering,If the secondary of the transformer having the reactance of 4% is short circuited with normal voltage applied to the primary the symmetrical short circuit current will be,4 times of the full load current,25 times of the full load current,2 times of the full load current,8 times of the full load current,b
+50,Professional Electrical Engineering,Which of the following statements is true?,0.5 - j0.866,a = 0.5 + j0.866,a4 = -a,a2 = -(1+a),d
+51,Professional Electrical Engineering,"A 15 MVA, 34.5 kV/6.24 kV transformer is connected at an infinite bus. The percent impedance of the transformer is 2.5%. What is the current at the 34.5 kV side for a three-phase fault at the 6.24 kV side?","55,500 A","10,000 A","5,000 A","25,000 A",b
+52,Professional Electrical Engineering,"If a generator is supplying reactive power to the power system, the generator is best described as operating:",overexcited,leading,unity,underexcited,a
+53,Professional Electrical Engineering,If the input to the prime-mover of an alternator is kept constant but the excitation is changed then,the reactive component of the output is changed,the active component of the output is changed,the p.f. of the load remains constant,the p.f. of the load varies,a
+54,Professional Electrical Engineering,The over voltage surges in the power system may be caused by,lightning,switching,resonance,any of the above,d
+55,Professional Electrical Engineering,This tool is use to fasten things like cable tray supports without the use of hammer drills.,ram set,jig set,jack hammer,electric reamer,a
+56,Professional Electrical Engineering,"A power plant has an annual load factor, capacity factor and plant use factor of 58.5%, 40.9%, and 45.2% respectively. The reserve capacity of the plant is 8.9 MW. What is the installed capacity?",20.7 MW,29.6 MW,25.9 MW,30.75 MW,b
+57,Professional Electrical Engineering,"In thermal electric generating plant, overall efficiency is improved when",Boiler pressure is increased,The difference between initial pressure and temperature and exhaust pressure and temperature are held at a maximum.,Load on the units is increased,Increased the no. of generator,b
+58,Professional Electrical Engineering,"Two meters X and Y require 40 mA and 50  mA, respectively, to give scale deflection, then",X is more sensitive,Y is more sensitive,both are sensitive,sensitivity cannot be judged with the given information,a
+59,Professional Electrical Engineering,Meter accuracy is determined by,half-scale deflection,full-scale deflection,one-fourth of full-scale deflection,one-tenth of full-scale deflection,b
+60,Professional Electrical Engineering,"If A, B, C, and D are the constants of the medium transmission line, which of the following relation is correct?",AB - CD = -1,AD + BD = 1,BC - AD = -1,AC - BD = 1,c
